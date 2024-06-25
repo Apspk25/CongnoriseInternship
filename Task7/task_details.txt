@@ -1,0 +1,6 @@
+TASK 7 - COUNTDOWN TIMER
+
+● Build a countdown timer that counts down to a specific date and time.
+● Include features like setting the countdown target and displaying the remaining
+time.
+● Use HTML, CSS, JavaScript, and the Date object for time calculations.
